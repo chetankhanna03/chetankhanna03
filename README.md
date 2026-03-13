@@ -1,10 +1,10 @@
-# Hey there! 👋 I'm Chetan Khanna
+# Hi 👋 I'm Chetan Khanna
 
 - B.Tech student in Computer Science Engineering (AI)  
 - ABES Institute of Technology  
-- Passionate about Full-Stack Web Development & AI  
-- Tech Stack: React, Node.js, TypeScript, MongoDB, Python  
-- Currently learning: Next.js, Docker, and System Design
+- Passionate about building AI-powered products and full-stack web applications 
+- Tech Stack: React • JavaScript • TypeScript • Node.js • Express.js • Python 
+- Currently learning: Solidity, AI Applications
 - Open to internships and collaboration opportunities  
 - Reach me: chetanpvt03@gmail.com
 
