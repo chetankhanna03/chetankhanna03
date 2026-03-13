@@ -12,9 +12,21 @@
 
 ## Featured Projects
 
-- **[LegacyAI](https://github.com/chetankhanna03/LegacyAI)**: A memory preservation platform using AI-powered chatbots  
-- **Netflix Clone**: Simple front-end project built using HTML & CSS  
-- **Exa Search Engine**: Mini search engine built using JavaScript  
+**🧠 LegacyAI**  
+AI-powered memory preservation platform that allows users to interact with memories of loved ones through conversational AI.  
+*Tech Stack:* React, Node.js, MongoDB, OpenAI
+
+**🩺 DemDoctor**  
+AI health assistant that provides symptom-based guidance and basic medical insights through a simple chat interface.  
+*Tech Stack:* React, Node.js, AI APIs
+
+**📚 StudyOS**  
+A productivity platform for students to manage study tasks, notes, and learning progress in one organized dashboard.  
+*Tech Stack:* React, Node.js, Express, AWS
+
+**🔎 Exa Search Engine**  
+A mini search engine prototype exploring indexing and search result retrieval using JavaScript.  
+*Tech Stack:* JavaScript
 
 ---
 
