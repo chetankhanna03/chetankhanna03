@@ -1,6 +1,13 @@
 <div align="center">
+<img width="1600" height="800" alt="image" src="https://github.com/user-attachments/assets/726c5669-7c37-4ecc-919a-9f3f08457e1a" width="100%"
+     alt="Chetan Khanna AI Engineer Banner" />
+</div>
 
-# Chetan Khanna
+---
+
+<div align="center">
+
+# Hi, I am Chetan Khanna
 
 ### AI Engineer • Researcher • Builder
 
